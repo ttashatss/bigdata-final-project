@@ -1,0 +1,117 @@
+restaurant,type,cuisine,taste,beverage,service,cost,location,buffet,opinion,sentiment,satisfied
+Sookdal,savory,korean,4,0,0,400.00,1,0,Sound pretty expensive because it is not buffet,negative,1
+Sushiro,savory,japanese,4,0,0,800.00,2,0,"The price is actually good for single plate but when all of them add up,it can be pretty expensive because there are so little in each plate",negative,0
+Momo Paradise,savory,japanese,4,0,0,659.00,1.8,1,"Delicious place to eat buffet with friends,premium meat,nice soup,and great mango sherbet",positive,1
+Rengaya,savory,japanese,5,0,1,"1,250.00",3.5,0,Super good meat that melts in your mouth,positive,1
+Bar B Q Plaza,savory,thai,3,0,1,400.00,2,0,Pretty expensive and not so many choice to choose in the menu,negative,0
+Luerjai,savory,usa,4,0,0,229.00,1.6,0,Great quality and healthy food with salmon sashimi,positive,1
+Kouen,savory,japanese,4,0,-1,882.00,1.6,1,Very expensive and the food took a very long time to be served,negative,0
+Tenten Shabu,savory,japanese,4,0,0,940.00,1.6,1,Very interesting menu but the net price is too high compated to the price on the menu,neutral,0
+Chabuton,savory,japanese,3,0,-1,240.00,2,0,Have to wait for the food for a very long time and a lot of carb,negative,0
+Dookki,savory,korean,4,0,0,299.00,1.8,1,Not many choice of meat and a lot of carb ,negative,1
+Saboten,savory,japanese,3,0,0,365.00,1.6,0,Personally not into tonkutsu to pay that much,negative,0
+Copper Buffet,savory,"japanese,french,italian,thai,chinese",5,0,1,999.00,7.4,1,Premium international buffet with great food variety and quality and great service,positive,1
+GuGu Chicken,savory,korean,4,0,-1,139.00,3,0,"Good taste and pretty cheap,better than Bonchon",positive,1
+Bonchon,savory,korean,2,0,0,165.00,2.6,0,The fried chicken is okay ,neutral,0
+Honmono,savory,japanese,3,0,0,435.00,1.6,0,Great quality food with fresh salmon sashimi,positive,0
+Sushi Masa,savory,japanese,4,0,1,410.00,0.5,0,Great quality food and very close to my house,positive,1
+Tenya,savory,japanese,2,0,0,125.00,3,0,Too much rice with little topping,negative,0
+Plearn Pung ,savory,thai,3,1,1,90.00,1.6,0,Low price food with acceptable taste,neutral,1
+Pizza Company,savory,usa,3,0,1,155.00,1.5,0,All carb and pretty high price compared to satisfaction,negative,0
+Mc Donald's,savory,usa,4,0,1,160.00,1.6,0,All carb and not very healthy ,negative,1
+KFC,savory,usa,2,0,0,119.00,3,0,Not healthy food and not so many choices to choose,negative,0
+Mos Burger,savory,usa,3,0,1,90.00,1.6,0,Provide a healthy choice but not actually interesting ,neutral,1
+Taco Bell,savory,usa,3,0,1,150.00,1.6,0,Not really a healthy choice but taste good and provide interesting menu,neutral,1
+Sushi OO,savory,japanese,3,0,-1,319.00,2.6,0,Sometimes food quality is not so fresh and the environment does not look clean,negative,0
+Mongkok,savory,hongkongese,4,1,1,588.00,2.6,1,"In love with the squid they provide,great variety of food and dessert",positive,1
+Akiyoshi,savory,japanese,3,0,-1,599.00,1.6,1,Vegetable is not so fresh and not so many choice of food to choose,negative,0
+Kagonoya,savory,japanese,4,0,0,823.00,1.6,1,Very expensitve to get more variety of food,neutral,1
+Burger King,savory,usa,3,1,0,225.00,1.6,0,Expensive for a fast food restaurant,negative,0
+CoCo Ichibanya,savory,japanese,1,0,-1,175.00,1.6,0,Not so many interesting choice and also makes me sick,negative,0
+Somtam Nua,savory,thai,4,0,0,200.00,1.8,0,Not interesting choice of food and also looks spicy,negative,0
+Ping Noey,savory,thai,3,0,0,298.00,1.6,1,Fun place to go with friends and nice environment ,positive,1
+Tudari,savory,korean,3,1,0,295.00,1.6,0,Not so many choice to choose and not into my liking,negative,0
+On the Table,savory,japanese,4,1,1,210.00,1.6,0,Nice food variety and quality as a japanese fusion cuisine,neutral,1
+Dak Galbi,savory,korean,3,0,1,200.00,1.5,0,Good service and the food is nice,positive,0
+Evaime,savory,japanese,4,0,1,349.00,1.6,1,Pretty large range of food and also provide delicious dessert,positive,1
+Greyhound Cafe,savory,"italian,thai",4,1,1,270.00,1.6,0,Provide a large range of cuisine and delicious food,positive,1
+Swensen's,sweet,usa,2,0,0,75.00,3,0,Typical ice cream place that provides interesting seasonal menus,neutral,0
+After You,sweet,japanese,3,1,0,162.00,1.6,0,Great dessert place with nice and warm honey toast,positive,1
+Nice Two Meat U,savory,korean,2,0,0,500.00,1.6,0,Expensive meat and the quality is not so worth it ,negative,0
+Myeong Dong,savory,korean,3,0,-1,362.00,1.9,1,Typical korean food but the sauce and some menus are too spicy ,neutral,0
+Kobe Steakhouse,savory,japanese,3,0,-1,245.00,0.2,0,Very close japanese restaurant with acceptable taste and price,neutral,1
+The Bibimbab,savory,korean,3,0,0,280.00,1.6,0,A lot of rice and not so much protein in each serving,negative,0
+Shinkanzen Sushi,savory,japanese,3,0,-1,140.00,1.6,0,The salmon is not very fresh and cold ,negative,0
+Chocolate Ville,savory,"thai,chinese,french",4,0,0,260.00,20,0,Great food with great scenery,positive,1
+Oh Ka Ju,savory,thai,4,1,0,316.00,1.7,0,Great choice of fresh healthy food with the best mango salad of all time,positive,1
+Chicken Club,savory,korean,3,0,-1,800.00,1.6,0,Very expensive with not very impressive service,negative,0
+Choong Man,savory,korean,4,0,0,260.00,1.5,0,Great fried chicken and sauce but a little too spicy,neutral,1
+Pan Pan,savory,italian,4,0,1,234.00,6.1,0,Nice authentic Italian food with great pizza,positive,1
+Seoga & Cook,savory,korean,3,0,0,285.00,2.3,0,Not very good reviews saying the plate decoration is good but the taste is not as good as it looks,negative,0
+Yayoi,savory,japanese,2,0,0,178.00,1.6,0,Typical japanese restaurant that mostly serves bentos,neutral,0
+Guss Damn Good,sweet,usa,4,0,1,80.00,3,0,Provides so many flavors of ice cream each with a background story,neutral,1
+Ootoya,savory,japanese,3,0,-1,282.00,1.6,0,There are reviews saying the restaurant is not clean,negative,0
+Hachiban,savory,japanese,4,0,1,127.00,1.5,0,Cheap and fast ramen that can be a to go choice when do not know what to eat while shopping in Siam,neutral,1
+Starbucks,drinks,usa,4,1,1,150.00,3,0,Many drinks choice and also places to sit and study,positive,1
+Jamba Juice,drinks,usa,3,1,1,120.00,3,0,Many healthy refreshing choice of drinks to choose ,positive,1
+Dairy Queen,sweet,usa,3,1,0,70.00,1.6,0,Pretty expensive compared to very small serving size,negative,0
+NaNa Coffee Roaster,drinks,french,4,1,0,130.00,4.3,0,Pretty expensive for someone who is not actually into roasted coffee,negative,0
+Jae Wan,sweet,thai,2,1,-1,60.00,1.9,0,Personally not into Thai sweets that much,neutral,0
+Pao Ping Tofu,sweet,taiwanese,4,0,0,79.00,1.6,0,Refreshing chilled tofu with fresh fruits are the best in hot days,positive,1
+Creamery,sweet,usa,4,1,0,205.00,2.9,0,The sweet looks amazing and the food menus are interesting,positive,1
+Cheevit Cheeva,savory,thai,4,0,0,115.00,1.6,0,Mostly provides Thai dessert which is not into my liking,neutral,0
+Acai Story,sweet,usa,5,1,0,150.00,7.1,0,Favorite refreshing iced cold acai bowl with fresh fruits the best for eating in hot days,positive,1
+Oakberry,sweet,usa,4,0,1,200.00,1.6,0,Great acai bowl with various choice of toppings,positive,1
+ChonKing,savory,korean,3,0,-1,199.00,8.6,1,Typical korean buffet but in a cheap price,neutral,0
+QQ Dessert,sweet,taiwanese,2,1,0,111.00,2,0,Not into sweet potato or Taiwanese dessert,negative,0
+Yogurt Land,sweet,usa,1,0,0,200.00,2,0,I do not eat frozen yogurt,negative,0
+Bearhouse,drinks,taiwanese,3,1,1,75.00,2.5,0,Very sweet but sometimes is nice to have something sweet,neutral,1
+Auan Pung Ping,sweet,thai,2,1,1,35.00,0.065,0,Too sweet and gives me stomachache when get coffee,negative,0
+Tim Hortons,drinks,usa,2,0,0,95.00,3,0,Too sweet and do not really provide menus that are into my liking,negative,0
+Coffee Club,drinks,"usa,french",3,1,-1,120.00,3,0,Not my favorite place to get coffee from but provides places to sit and study,neutral,0
+Shabushi,savory,japanese,2,0,-1,599.00,1.5,1,Very bad service with confusing staff and expensive price compared to quality,negative,0
+Hot Pot,savory,japanese,3,0,0,399.00,1.9,1,Intersting food choice with cheap price compared to other restaurants that serve the same menu,positive,1
+Narai Pizzeria,savory,"italian,chinese,japanese",3,0,0,400.00,2.5,1,Do not have a very good reputation from the reviews,negative,0
+Guljak Chicken Thailand,savory,korean,3,0,1,300.00,9.2,0,Expensive place to have koren fried chicken when compared to other options,negative,0
+Spaghetti Factory,savory,italian,3,0,1,220.00,2,0,Nice spaghetti cheese and shimp with an interesting gimmick of cheese wheel,positive,1
+Red Sun,savory,korean,3,0,0,274.00,2.5,0,Typical korean food but pretty expensive compared to others that serve the same menus,negative,0
+Mister Donut,sweet,usa,3,0,0,20.00,0.8,0,Very sweet donuts with all carb,negative,0
+Mon Nomsod,sweet,thai,5,1,0,100.00,1,0,Nice and soft Pandan bread with sweetened milk is the best,positive,1
+Krispy Kream,sweet,usa,2,0,0,30.00,1.6,0,Very sweet sugar glazed donut which means it has nothing but carb,negative,0
+Black Canyon Coffee,drinks,usa,3,1,0,80.00,1.6,0,Not so intersting choice of drinks to choose from ,neutral,0
+Hong Dae,savory,korean,4,0,1,470.00,2.4,1,Great choice of korean buffet with various delicious sidedish and also interesting desserts,positive,1
+Cheonman,savory,korean,3,0,-1,199.00,1.6,0,Typical korean food which is not into my liking,neutral,0
+Go Curry,savory,japanese,2,0,1,200.00,1.6,0,I do not eat curry because it gives me stomachache,negative,0
+Chester's,savory,usa,3,0,0,115.00,1.7,0,Easy quick dinner with enough protien and carb,neutral,1
+Cafe Amazon,drinks,usa,3,1,-1,60.00,0.06,0,An easy quick to go drinks,neutral,0
+Easy Buddy,savory,thai,3,0,0,259.00,2.8,0,A famous place for Pad Krapao with stickly rice but pretty expensive and too spicy,negative,0
+Maguro,savory,japanese,4,0,-1,350.00,2,0,Provides fresh sashimi and salmon,positive,1
+Al Saray,savory,indian,4,0,1,650.00,3.8,0,Interesting various choice of Indian food with great ingredients combination,positive,1
+MK Restaurant,savory,"thai,chinese",3,1,1,300.00,1.6,0,Typical suki restaurant with choices of meat served in little plates,neutral,0
+Brown Cafe,drinks,taiwanese,2,1,0,70.00,2,0,Too sweet bubble milk tea store,negative,0
+Subway,savory,usa,3,0,1,142.00,1.6,0,Sandwich with variety toppings to choose from including protein and healthy food,positive,1
+Sizzler,savory,usa,3,0,1,400.00,1.5,1,Salad bar provided but the food is pretty expensive and there is too much in a serving,negative,0
+Shabu Lab,savory,japanese,4,0,1,379.00,2,1,Shabu place with a gimmick of creating an environment like one in a laboratory which is pretty interesting,positive,1
+Aka,savory,japanese,2,0,-1,631.00,2,1,The service was horrible as we had to wait for half an hour for food to be served even though there is a limited eating time that we would be charged more if we sit overtime,negative,0
+Waraporn,savory,chinese,4,0,0,27.00,1.8,0,Favorite and delicious quick snack for hitting the road,neutral,1
+Seoulchon,savory,korean,2,0,-1,150.00,0.6,0,There are better korean fried chicken place with cleaner environment,negative,0
+Nua Tair,savory,"thai,indian",3,0,1,175.00,3,0,Great meat and nice flavour,positive,1
+ZEN Restaurant,savory,japanese,3,1,0,385.00,1.8,0,Various choice of japanese food with fresh sashimi,positive,1
+Thong Smith,savory,thai,4,0,0,200.00,1.6,0,Too expensive boat noodles with pretty not worth quality,negative,0
+Crazy Sushi,savory,japanese,3,0,1,320.00,5.1,0,The gimmick is very fun to play with giving us the paper to fill in and serving in front of the customer,positive,1
+Casa Lapin,savory,italian,3,0,-1,250.00,4.4,0,The food is pretty expensive and we had to wait for a very long time,negative,0
+Kuan Ah Restaurant,savory,chinese,1,0,0,300.00,12,0,The food tastes horrible the chicken is not soft and tender at all,negative,0
+Ama Bakery,sweet,thai,4,0,0,60.00,6,0,The bread is very soft and melts in your mouth and the filling is in a very good amount ,positive,1
+Sushi Oorathai (Wanglang),savory,japanese,2,0,-1,100.00,7.5,0,Very cheap but also not as good quality,neutral,0
+Midnight Chicken ,savory,"chinese,thai",4,1,1,100.00,4.4,0,Great place to have chicken on rice at night with soft and tender chicken,positive,1
+Ramentei,savory,japanese,4,0,1,300.00,6.4,0,Went there so often when I was young,neutral,1
+Gianni Restorante,savory,italian,4,0,1,"1,500.00",4.7,0,High profile Italian dining with very delicious main dishes but too expensive,neutral,0
+Charcoal Tandoor Grill & Mixologu,savory,indian,3,0,1,500.00,3.8,0,I don't really like the heavy flavors in each dish and also I don't really like grilled food that much,negative,0
+Masa Garden,savory,japanese,4,0,-1,800.00,6.4,0,The beef is soft and tender as it is slowly cooked in the shabu pot,positive,1
+Sushi Den,savory,japanese,2,0,-1,400.00,2.5,0,The price is unreasonable ,negative,0
+Roselamoon,savory,chinese,4,0,1,400.00,4.8,0,Very nice restaurant but for family gathering not for eating out alone,neutral,0
+Chikalicious,sweet,usa,3,1,0,200.00,3.8,0,Nice dessert place to eat and to treat a friend on their birthdays,positive,1
+Yoshinoya,savory,japanese,3,0,0,200.00,2.4,0,Nice beef and onion but too much rice in each serving,neutral,0
+B Story,savory,"thai,italian",3,1,-1,330.00,0.75,0,Nice place to have a quick meal because it is very close to my house,positive,1
+Hungry Nerd,savory,usa,4,0,0,150.00,0.7,0,Nice place to have a quick meal because it is very close to my house and also serve in a huge serving,positive,1
+Yakkajon,savory,thai,3,0,1,200.00,1.1,0,Very fresh fruit and vegetable from farmers nicely cooked with great sauce and taste,positive,1
